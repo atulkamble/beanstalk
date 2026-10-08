@@ -1,4 +1,4 @@
-# AWS Elastic Beanstalk – Training Notes & Hands-On Guide
+# AWS Elastic Beanstalk – Training Notes
 
 Topics: Introduction, Website Hosting, Environment Management, Cloning, Domain Name Swapping, and Application Management.
 
