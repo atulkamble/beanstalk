@@ -49,7 +49,7 @@ git clone https://github.com/atulkamble/beanstalk.git
 cd beanstalk
 ```
 
-### Step 2: Create `application.py`
+### Step 2: Create `app.py`
 
 ```
 from flask import Flask
@@ -89,7 +89,7 @@ Flask>=3.0,<4.0
 Create the ZIP:
 
 ```
-zip -r app.zip application.py requirements.txt
+zip -r app.zip app.py requirements.txt
 ```
 
 ### Step 5: Verify
