@@ -1,4 +1,4 @@
-# AWS Elastic Beanstalk – Training Notes
+# AWS Elastic Beanstalk 
 
 Topics: Introduction, Website Hosting, Environment Management, Cloning, Domain Name Swapping, and Application Management.
 
@@ -45,8 +45,8 @@ Objective: Deploy a basic Python Flask website using Elastic Beanstalk.
 ### Step 1: Create project
 
 ```
-mkdir beanstalk-webapp
-cd beanstalk-webapp
+git clone https://github.com/atulkamble/beanstalk.git
+cd beanstalk
 ```
 
 ### Step 2: Create `application.py`
